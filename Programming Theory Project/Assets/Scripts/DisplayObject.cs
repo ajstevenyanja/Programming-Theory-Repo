@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// 4 comments specify each OOP principle implementation
+// "4 comments" specify each OOP principle implementation
 
-// 1. There are three different colored shapes that inherit from a base “DisplayObject” class (inheritance).
+// 1. There are three different colored shapes that inherit from a base ï¿½DisplayObjectï¿½ class (inheritance).
 public class DisplayObject : MonoBehaviour
 {
     // 4. Code is organized in a way that reduces duplicate code through higher level methods(abstraction).
